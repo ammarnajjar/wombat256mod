@@ -1,6 +1,6 @@
 " Vim color file
 " Original Maintainer:  Ammar Najjar (najjarammar@gmail.com)
-" Last Change:  2016-01-21
+" Last Change:  2020-03-26
 "
 " Modified version of wombat256mod by
 "   Lars H. Nielsen (dengmao@gmail.com)
@@ -22,7 +22,7 @@ let colors_name = "wombat256mod"
 
 
 " General colors
-hi Normal		ctermfg=252		ctermbg=233		cterm=none		guifg=#e3e0d7	guibg=#000000	gui=none
+hi Normal		ctermfg=252		ctermbg=0		cterm=none		guifg=#e3e0d7	guibg=#000000	gui=none
 hi Cursor		ctermfg=234		ctermbg=228		cterm=none		guifg=#242424	guibg=#eae788	gui=none
 hi Visual		ctermfg=251		ctermbg=239		cterm=none		guifg=#c3c6ca	guibg=#554d4b	gui=none
 hi VisualNOS	ctermfg=251		ctermbg=236		cterm=none		guifg=#c3c6ca	guibg=#303030	gui=none
